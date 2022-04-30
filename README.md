@@ -4,13 +4,22 @@ Representation
 
 <p>if you stay, read this: na-na-hey-na-na-hoo-bla-bla-blanc, ecet erre, ecet arra (mert az sokmindenre jó, de inkább a salátába)</p>
 
-Education
-Óbudai Egyetem, Kandó Kálmán Villamosmérnöki Kar — BSC Villamosmérnök Műszer-automatika, 2007
+<h2>Education</h2>
 
-Skills
-Villamosmérnök, automatika, energetika (akkumulátor és konverter technológia), villamos járműhajtások, hidraulika, közlekedésgépészet…
-a little bit: c++, python, xcode(swift) programozási ismeretek
+<blockquote>
+<p>Óbudai Egyetem, Kandó Kálmán Villamosmérnöki Kar</p> BSC <p>Villamosmérnök Műszer-automatika, 2007</p>
+</blockquote>
 
-Interests
-Energetika, megújuló energiák, csillagászat, asztrofizika, quantum fizika, quantum mechanika, járművek, építészet, természetjárás
+<h3>Skills</h3>
+
+<blockqute>
+- villamosmérnök - automatika - energetika (akkumulátor és konverter technológia) - villamos járműhajtások - hidraulika - közlekedésgépészet…
+<p>a little bit: c++, python, xcode(swift) programozási ismeretek</p>
+</blockqute>
+
+
+<h4>Interests</h4>
+
+<blockqute>
+- energetika - megújuló energiák - csillagászat - asztrofizika - quantum fizika - quantum mechanika - járművek - építészet - természetjárás * coding
 / []
