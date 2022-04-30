@@ -10,16 +10,32 @@ Representation
 <p>Óbudai Egyetem, Kandó Kálmán Villamosmérnöki Kar</p> BSC <p>Villamosmérnök Műszer-automatika, 2007</p>
 </blockquote>
 
-<h3>Skills</h3>
+<h2>Skills</h2>
 
 <blockqute>
-- villamosmérnök - automatika - energetika (akkumulátor és konverter technológia) - villamos járműhajtások - hidraulika - közlekedésgépészet…
+ - villamosmérnök
+ - automatika
+ - energetika (akkumulátor és konverter technológia)
+ - villamos járműhajtások
+ - hidraulika
+ - közlekedésgépészet…
+
 <p>a little bit: c++, python, xcode(swift) programozási ismeretek</p>
 </blockqute>
 
 
-<h4>Interests</h4>
+<h2>Interests</h2>
 
 <blockqute>
-- energetika - megújuló energiák - csillagászat - asztrofizika - quantum fizika - quantum mechanika - járművek - építészet - természetjárás * coding
+ - energetika
+ - megújuló energiák
+ - csillagászat
+ - asztrofizika
+ - quantum fizika
+ - quantum mechanika
+ - járművek
+ - építészet
+ - természetjárás
+ * coding
 / []
+</blockqute>
