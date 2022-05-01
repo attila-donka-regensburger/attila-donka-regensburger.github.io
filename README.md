@@ -37,5 +37,5 @@ Representation
  - építészet
  - természetjárás
  * coding
-/ []
+ (/ [])
 </blockqute>
