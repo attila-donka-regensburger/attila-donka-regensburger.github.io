@@ -2,7 +2,7 @@
 Representation
 <h1>This page is under construction, please visit later.<h1/>
 
-<p>if you stay, read this: na-na-hey-na-na-hoo-bla-bla-blanc, ecet erre, ecet arra (mert az sokmindenre jó, de inkább a salátába)</p>
+<h2>if you stay, read this: na-na-hey-na-na-hoo-bla-bla-blanc, ecet erre, ecet arra (mert az sokmindenre jó, de inkább a salátába)</h2>
 
 <h2>Education</h2>
 
