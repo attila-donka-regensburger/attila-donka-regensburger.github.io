@@ -13,29 +13,28 @@ Representation
 <h2>Skills</h2>
 
 <blockqute>
- - villamosmérnök
- - automatika
- - energetika (akkumulátor és konverter technológia)
- - villamos járműhajtások
- - hidraulika
- - közlekedésgépészet…
+ <p>- villamosménök</p>
+ <p>- automatika</p>
+ <p>- energetika (akkumulátor és konverter technológia)</p>
+ <p>- villamos járműhajtások</p>
+ <p>- hidraulika</p>
+ <p>- közlekedésgépészet…</p>
 
-<p>a little bit: c++, python, xcode(swift) programozási ismeretek</p>
+<p> <strongy>a little bit:</strongy> c++, python, xcode(swift) programozási ismeretek</p>
 </blockqute>
 
 
 <h2>Interests</h2>
 
 <blockqute>
- - energetika
- - megújuló energiák
- - csillagászat
- - asztrofizika
- - quantum fizika
- - quantum mechanika
- - járművek
- - építészet
- - természetjárás
- * coding
- (/ [])
+ <p>- energetika</p>
+ <p>- megújuló energiák</p>
+ <p>- csillagászat</p>
+ <p>- asztrofizika</p>
+ <p>- quantum fizika</p>
+ <p>- quantum mechanika</p>
+ <p>- járművek</p>
+ <p>- építészet</p>
+ <p>- természetjárás</p>
+ <p>* coding</p>
 </blockqute>
