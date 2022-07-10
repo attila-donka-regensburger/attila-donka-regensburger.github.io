@@ -37,7 +37,7 @@ h2 {
 }
 nav {
   background-image: url("./style/bg_navbar.jpg");
-  background-size: contain;
+  background-size: flex;
   background-color: rgb(240, 254, 255, 0.5);
   background-blend-mode: multiply
 }
