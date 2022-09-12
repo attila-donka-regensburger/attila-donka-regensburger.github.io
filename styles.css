@@ -54,7 +54,7 @@ nav {
   background-blend-mode: multiply;
 }
 footer {
-  border: 2px solid red;
+  border: 2px solid green;
   border-radius: 10px;
   text-align: center;
   background-color: darkgray;
