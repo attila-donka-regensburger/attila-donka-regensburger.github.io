@@ -1,16 +1,19 @@
-*{box-sizing: border-box
-  margin: 0;
+*{box-sizing: border-box;
+  margin: 0 auto 0 auto;
   padding: 0;
   max-width: 1200px;
   font family: "Roboto", sans-serif;
-  color: rgb(00, 66, 99);
+  color: whitesmoke;
+  /*color: rgb(00, 66, 99);*/
   user selecct: none;}
 body {
-  background-color: gray;
+  background-color: rgb(19, 18, 18);
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
+  /*color:whitesmoke*/
   font-size: larger;
+  padding-left: 2rem;
 }
 aside {
     width: 20%;
@@ -20,7 +23,7 @@ aside {
     float: right;
     border-radius: 10px;
     font-style: italic;
-    font-color: rgb(11, 109, 11);
+    /*font-color: rgb(11, 109, 11);*/
     background-image: url("./style/asetback2.png");
     background-size: cover;
     background-repeat: no-repeat;
@@ -29,23 +32,30 @@ aside {
 }
 html 
 {
+  /*position:absolute;*/
   min-widht:300px;
-  color: rgb(00, 66, 99);
+  /*color: whitesmoke, rgb(211, 217, 219);*/
+  /*padding-left: 2rem;*/
 }
 section {
+  /*position:absolute;*/
   padding: 2rem;
   max-width: 1200px;
   margin: auto;
 }
 h1 {
+  position:absolute;
   font-size: 3rem;
   text-align: center;
   padding: 2rem 0.5rem;
+  color:whitesmoke;
 }
 h2 {
-  font-size: 1rem;
+  
+  font-size: 2rem;
   text-align: left;
   padding-bottom: 1rem;
+  color:whitesmoke;
 }
 nav {
   background-image: url("./style/bg_navbar.jpg");
