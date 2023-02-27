@@ -250,9 +250,9 @@ h6 {
 }
 
 #collage {
-  padding-left: 10%;
-  width: 90%;
-  height: 60%;
+  padding-left: 1rem;
+  width: 80%;
+  /*height: 80%;*/
   position: relative;
   justify-content: center;
   z-index: 1;
@@ -266,7 +266,7 @@ h6 {
   }
 
 #hero h1 {
-  margin: 0 0 10px 0;
+  margin: 1rem 0 1rem 1rem;
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
@@ -276,6 +276,7 @@ h6 {
 }
 
 #hero p {
+  padding-left: 1rem;
   color: #fff;
   margin-bottom: 50px;
   font-size: 24px;
