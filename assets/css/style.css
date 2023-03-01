@@ -419,7 +419,7 @@ section {
   line-height: 40px;
   display: block;
   font-weight: 700;
-  color: #050d18;
+  color: rgb(110, 110, 110); /* #050d18; */
   margin-left: 60px;
 }
 
@@ -428,7 +428,7 @@ section {
   margin: 0 0 0 60px;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
-  color: beige;/* #122f57;*/
+  color: rgb(172, 172, 172);/* #122f57;*/
 }
 
 .facts .count-box a {
@@ -462,7 +462,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: rgb(208, 214, 213); /* #050d18; */
+  color: rgb(201, 201, 201); /* #050d18; */
 }
 
 .skills .progress .skill .val {
