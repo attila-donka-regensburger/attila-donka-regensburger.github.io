@@ -5,7 +5,14 @@ Representation
 <h2>Education</h2>
 
 <blockquote>
-<p>Óbudai Egyetem, Kandó Kálmán Villamosmérnöki Kar</p> BSC <p>Villamosmérnök Műszer-automatika, 2007</p>
+ <p>Programozás Karrier Community, professional Web developer community, 
+  full-stack studies from the basics to advanced programming</p>
+ <p>Learn programming languages and frameworks from the ground up to advanced levels.</p>
+ <p> A non-exhaustive list: HTML/CSS, JavaScript, React, TypeScript, Node.js, npm, SQL, Django, Python, Git, GitHub</p> 
+<blockquote>
+ 
+<p>Óbuda University, Kandó Kálmán Faculty of Electrical Engineering, Budapest</p>
+<p>I graduated from the "Computer process automation" module at the MTI - Instrument Technologi Institute.</p> 
 </blockquote>
 
 <h2>Skills</h2>
@@ -17,10 +24,8 @@ Representation
  <p>- villamos járműhajtások</p>
  <p>- hidraulika</p>
  <p>- közlekedésgépészet…</p>
-
-<p> <strongy>a little bit:</strongy> c++, python, xcode(swift) programozási ismeretek</p>
+ <p>C, C++, python, JavaScript, React, Xcode-Swift programozási ismeretek</p>
 </blockqute>
-
 
 <h2>Interests</h2>
 
