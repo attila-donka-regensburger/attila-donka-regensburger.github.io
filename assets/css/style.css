@@ -752,7 +752,7 @@ section {
 }
 
 .services .title a {
-  color: #343a40;
+  color: #8d8d8d;
 }
 
 .services .title a:hover {
@@ -789,12 +789,12 @@ section {
   font-size: 18px;
   font-weight: bold;
   margin: 10px 0 5px 0;
-  color: #111;
+  color: whitesmoke;/* #111; */
 }
 
 .testimonials .testimonial-item h4 {
   font-size: 14px;
-  color: #999;
+  color: #b1b1b1;
   margin: 0;
 }
 
@@ -932,13 +932,13 @@ section {
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
   background: #149ddd;
-  color: #149ddd;/* #fff; */
+  color: #fff;
 }
 
 .contact .php-email-form {
   width: 100%;
   padding: 30px;
-  background: #fff;
+  background: rgb(124, 124, 124);/* #fff; */
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
