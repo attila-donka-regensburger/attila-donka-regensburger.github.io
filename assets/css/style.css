@@ -256,6 +256,7 @@ h6 {
 
 #collage {
   /*padding-left: 0rem;*/
+  align-items: center;
   width: 80%;
   /*height: 80%;*/
   /*position: relative;*/
@@ -263,7 +264,6 @@ h6 {
 
 #hero-container {
   display: inline;
-  align-items: center;
   justify-content: center;
   z-index: 1;
   position: relative;
